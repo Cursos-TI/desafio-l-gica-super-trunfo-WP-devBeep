@@ -125,9 +125,9 @@ int main() {
 
 
     if(area1 > area2){
-        printf("carta 1 tem a maior área\n");
+        printf("carta vencedora: (carta 1) tem a maior área\n");
     } else {
-        printf("carta 2 tem a maior área\n");
+        printf("carta vencedora: (carta 2) tem a maior área\n");
     }
     //cidadeVencedora = area1 != area2;
 
