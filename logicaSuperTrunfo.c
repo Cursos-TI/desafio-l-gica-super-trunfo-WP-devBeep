@@ -225,7 +225,7 @@ int main() {
                 printf("Opção inválida. Tente novamente.\n");
         }
 
-        printf(" parabéns");
+        printf(" parabéns!\n");
     
         return 0;
     }
